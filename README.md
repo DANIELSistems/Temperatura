@@ -13,6 +13,7 @@ C: Grados centigrados
 Variables de proceso y salida (processing, storage, output)
 
 F:Grados farenheit
+
 K:Grados kelvin
 
 ![Diagrama de flujo](diagrama.png "Diagrama de flujo")
